@@ -1,2 +1,2 @@
 # my-first-repo
-practice
+Basic programming concepts using HTML and CSS
