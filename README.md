@@ -1,2 +1,2 @@
-# my-first-repo
+# web stuff
 Basic programming concepts using HTML and CSS
